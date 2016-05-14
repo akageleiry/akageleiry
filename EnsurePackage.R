@@ -1,5 +1,5 @@
 
-EnsurePackages <- function(pkg) {
+EnsurePackage <- function(pkg) {
   
   #
   # Author:  Andy Kageleiry
